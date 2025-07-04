@@ -1,3 +1,6 @@
+# Ignorer le fichier epi_r.csv
+data/raw/epi_r.csv
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
